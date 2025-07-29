@@ -1,0 +1,57 @@
+.searchBox{
+    display: flex;
+    align-items: center;
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    gap: 16px;
+  }
+  
+  .input-group{
+    display: flex;
+    align-items: center;
+    background-color: #f9f9f9;
+    border-radius: 6px;
+    padding: 8px 12px;
+    flex: 1;
+    max-width: 300px;
+    border: 1px solid #ddd;
+  }
+  
+  .input-group input{
+    border: none;
+    background: none;
+    outline: none;
+    font-size: 14px;
+    color: #333;
+    width: 100%;
+    margin-left: 8px;
+  }
+  
+  .checkbox-group {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  
+  .checkbox-group input {
+    width: 16px;
+    height: 16px;
+    cursor: pointer;
+  }
+  
+  .searchButton {
+    background-color: #5964e0;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 6px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+  
+  .searchButton:hover {
+    background-color: #4e56c2;
+  }

@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&family=Libre+Caslon+Display&family=Lilita+One&display=swap');
+.container {
+    display: grid;
+    place-items: center; /* Centers both horizontally and vertically */
+    min-height: 35vh;
+}
+
+.jobDescriptionHeader{
+    width: 800px; /* Set a fixed width */
+    height: 120px; /* Set a fixed height */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+a{
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.cName{
+    font-family: "Lilita One", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-weight: 400;
+    font-style: normal;
+    background-color: orange;
+    color: white;
+    padding: 50px;
+    border-bottom-left-radius: 5px;
+    font-size: 25px;
+}
+
+.cSite{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    background-color: whitesmoke;
+    border: 1px solid #e3e3e3;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.cSite1{
+    margin: 10px;
+    padding-right: 200px;
+    justify-content: space-between;
+}
+
+#title{
+    margin-top: 20px;
+}
+
+#csButton{
+    border: none;
+    background-color: rgb(192, 195, 198);
+    color: #2938db;
+    padding: 10px;
+    font-size: 13px;
+    margin-top: 35px;
+}
+
+#csButton:hover{
+    background-color: rgb(130, 131, 132);
+    cursor: pointer;
+}
+
+#web{
+    margin-top: 5px;
+    font-size: smaller;
+    color: slategray;
+}
+
+.jobDescriptionBody{
+    display: flex;
+    flex-direction: column;
+    max-width: 800px;
+    margin-top: 500px;
+    background-color : whitesmoke;
+    padding: 10px;
+    justify-content: center;
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.description1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    max-width: 545px;
+    float: left;
+}
+
+.job-ti{
+    font-size: 15px;
+    color: grey;
+}
+
+.job-lc{
+    font-size: 13px;
+    color: blueviolet;
+    margin-top: 0px;
+}
+
+.buttonSpace{
+    float: right;
+}
+
+.applyButton{
+    padding: 10px;
+    background-color: #5964e0;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.applyButton:hover{
+    background-color: #4e56c2;
+}
+
+.descriptionDetails{
+    font-size: 15px;
+    color: grey;    
+}
