@@ -55,16 +55,21 @@ DevJobs is a user-friendly job portal built to streamline the process of discove
 ## Screenshots
 
 **DevJobs Home and Search page**
+
 <img width="1912" height="831" alt="DevJobs_Home_SearchPage" src="https://github.com/user-attachments/assets/d8caa829-464f-443c-a17d-355677dfe6b1" />
 
 **DevJobs LoadMore Button to load more jobs**
+
 <img width="1871" height="735" alt="DevJobs_LoadMore" src="https://github.com/user-attachments/assets/4fbe76f1-3e1d-4cc4-92ca-f2cd53bbac40" />
 
 **DevJobs JobCard**
+
 <img width="1911" height="818" alt="DevJobs_JobCard" src="https://github.com/user-attachments/assets/475d6ca9-d81f-42bd-b051-544a1269f2a3" />
 
 **DevJobs Company Portal Page**
+
 <img width="1918" height="812" alt="DevJobs_CompanyPortalPage" src="https://github.com/user-attachments/assets/c164bde5-5063-4870-ab32-af90589ec520" />
 
 **DevJobs Apply Page**
+
 <img width="1916" height="822" alt="DevJobs_Apply" src="https://github.com/user-attachments/assets/b8458deb-97fe-46fc-8cc7-2e0db494a3a7" />
