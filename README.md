@@ -1,70 +1,70 @@
-# Getting Started with Create React App
+# DevJobs
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**DevJobs** is a job listing portal built to simplify job discovery. It allows searching, filtering, and viewing job listings, optimized for both functionality and responsive experience.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 💼 Table of Contents
 
-### `npm start`
+- [About the Project]
+- [Features]  
+- [Tech Stack]  
+- [Usage & Workflow]
+- [Screenshots]
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## About the Project
 
-### `npm test`
+DevJobs is a user-friendly job portal built to streamline the process of discovering and exploring job opportunities. It supports:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Filtering jobs by title, location, and type (e.g. full-time vs part-time)  
+- Viewing job details on a separate page
+- Apply for the job
+- Responsive UI and interactive experience
+  
+---
 
-### `npm run build`
+## Features
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Dynamic Job Listings** – Display available jobs.
+- **Search & Filter** – Filter based on role title, location, and job type  
+- **Job Details Page** – Clean detail view with apply link, company portal link and job description
+- **Apply Page** - You will be asked to fill basic details and click on apply
+- **User Flow** – User-friendly UX from job search to application link
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Tech Stack
 
-### `npm run eject`
+- **Frontend**: React, React Router 
+- **Styling**: CSS
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Usage & Workflow
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Browse the job listings on the homepage
+- Use the filter/search form to narrow down results
+- Click a job card to view full details
+- Click on company site to Navigate to company's webpage
+- Click on Apply to apply for that job by sharing your details
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## Screenshots
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**DevJobs Home and Search page**
+<img width="1912" height="831" alt="DevJobs_Home_SearchPage" src="https://github.com/user-attachments/assets/d8caa829-464f-443c-a17d-355677dfe6b1" />
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**DevJobs LoadMore Button to load more jobs**
+<img width="1871" height="735" alt="DevJobs_LoadMore" src="https://github.com/user-attachments/assets/4fbe76f1-3e1d-4cc4-92ca-f2cd53bbac40" />
 
-### Code Splitting
+**DevJobs JobCard**
+<img width="1911" height="818" alt="DevJobs_JobCard" src="https://github.com/user-attachments/assets/475d6ca9-d81f-42bd-b051-544a1269f2a3" />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+**DevJobs Company Portal Page**
+<img width="1918" height="812" alt="DevJobs_CompanyPortalPage" src="https://github.com/user-attachments/assets/c164bde5-5063-4870-ab32-af90589ec520" />
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**DevJobs Apply Page**
+<img width="1916" height="822" alt="DevJobs_Apply" src="https://github.com/user-attachments/assets/b8458deb-97fe-46fc-8cc7-2e0db494a3a7" />
